@@ -1,0 +1,43 @@
+- name: April Novak
+  pronouns: she/her
+  pic: /imgs/people/temp.png
+  dates: 2023-present
+  role: Primary Investigator
+  url: /_data/people/bios/aprilnovak.md
+  social:
+  - url: https://github.com/aprilnovak
+    icon: github-alt
+    name: Github
+  - url: mailto:ajnovak2@illinois.edu
+    icon: envelope-o
+    name: Email
+
+- name: Joseph Specht
+  pronouns: he/him
+  pic: /imgs/people/temp.png
+  dates: 2024-prsent
+  role: Undergraduate Researcher
+  url: /_data/people/bios/josephspecht.md
+  social:
+  - url: https://github.com/jspecht3
+    icon: github-alt
+    name: Github
+  - url: mailto:jspecht3@illinois.edu
+    icon: envelope-o
+    name: Email
+
+- name: Nathan Glaser
+  pronouns: he/him
+  pic: /imgs/people/temp.png
+  dates: 2024-present
+  role: Undergraduate Researcher
+  url: /_data/people/bios/nathanglaser.md
+  social: 
+  - url: https://github.com/nglaser3
+    icon: github-alt
+    name: Github
+  - url: mailto:nglaser3@illinois.edu
+    icon: envelope-o
+    name: Email
+
+

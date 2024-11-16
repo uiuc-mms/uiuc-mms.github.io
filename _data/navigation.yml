@@ -1,0 +1,12 @@
+# Belongs at: /_data/navigation.yml
+- title: "People"
+  url: "/people"
+
+- title: "Research"
+  url: "/research"
+
+- title: "Software" 
+  url: "/software"
+
+- title: "Publications"
+  url: "/publications"

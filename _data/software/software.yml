@@ -1,0 +1,12 @@
+- name: OpenMC
+  pic: /imgs/software/openmc_logo.png
+  description: /_data/software/descriptions/openmc.md
+  install: https://docs.openmc.org/en/stable/quickinstall.html
+  website: https://docs.openmc.org/en/stable/index.html 
+
+- name: Cardinal
+  pic: /imgs/software/openmc_logo.png
+  description: /_data/software/description/cardinal.md
+  install: https://cardinal.cels.anl.gov/start.html
+  website: https://cardinal.cels.anl.gov/index.html
+  
