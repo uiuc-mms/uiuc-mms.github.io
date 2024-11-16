@@ -12,14 +12,16 @@ layout: page
 				{%assign counter = 1%}
 			{% endif %}
 			<div class="col-md-3 col-sm-3 portfolio-item">
-				<a href = "{{person.url}}" class="portfolio-link" data-toggle="modal">
+
+				<a href="{{ person.url }}" class="portfolio-link" data-toggle="modal">
 					<div class="portfolio-hover">
-						<div class="portfolio-hover-content img-circle">
-							<i class="fa fa-plus fa-3x"></i>
-						</div>
+							<div class="portfolio-hover-content img-circle">
+									<i class="fa fa-plus fa-3x"></i>
+							</div>
 					</div>
-					<img src="{{person.pic | prepend: site.baseurl}}" class="img-circle img-responsive" alt="{{person.name}}">
+					<img src="{{ person.pic }}" class="img-circle img-responsive" alt="{{ person.name }}">
 				</a>
+
 				<div class="portfolio-caption">
 					<h3>{{person.name}}, ({{person.pronouns}})</h3>
 					<h6>{{person.role}}</h6>
